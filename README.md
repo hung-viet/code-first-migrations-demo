@@ -2,6 +2,6 @@
 ## Note:
 ```
 Tools –> Library Package Manager –> Package Manager Console
-Add-Migration [File Name Description]
+Add-Migration [FileNameDescription]
 Update-Database
 ```
